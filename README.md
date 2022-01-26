@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Ali Osman Arslan</h1>
-<h3 align="center">Hindistan'dan tutkulu bir kullanıcı arabirimi geliştiricisi</h3>
+<h3 align="center"> Java - Android Developer</h3>
 
 <h3 align="left">Benimle bağlantı kurun :</h3>
 <p align="left">
