@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Ali Osman Arslan</h1>
-<h3 align="center">Java - Android Developer</h3>
+<h3 align="center">Passionate about learning programming, creating applications, and keeping in touch with the newest technologies. Currently learning and writing articles on Jetpack Compose while also developing mobile applications with MVVM architecture to further improve my knowledge on mobile development and i use Java and Kotlin for this.</h3>
 
 <h3 align="left">Benimle bağlantı kurun :</h3>
 <p align="left">
